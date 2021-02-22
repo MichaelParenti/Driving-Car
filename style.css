@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#back{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+#car{
+    width: 30vw;
+    height: auto;
+    position: absolute;
+    bottom: 80px;
+}
